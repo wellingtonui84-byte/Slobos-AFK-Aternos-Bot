@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "servidores.ceu.gg:27033",
+    "ip": "survivalsteal.minecraft.ceu.gg:27033",
     "port": 27033,
     "version": "",
     "try-creative": false
